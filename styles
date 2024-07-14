@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:#4169e1;
+    font-size: 80px;
+}
+h2{
+    text-align: center;
+    color: rgb( 255,0,0);
+    font-size: 60px;
+}
+p{
+    color: rgb(255,255,0);
+    line-height: 20px;
+    font-size: x-large;
+}
+h3{
+    text-align: center;
+    color: rgb(0,255,0);
+    font-size: 50px;
+}
+ol{
+    color:rgb(128,0,128);
+    line-height: 40px;
+    font-size: x-large;
+}
+
+body{
+    background-color:#000000;
+}
